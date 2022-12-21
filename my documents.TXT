@@ -1,1 +1,2 @@
-my name is safin sarker
+my name is safin sarker.
+i am learning git
